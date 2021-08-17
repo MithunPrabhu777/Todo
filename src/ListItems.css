@@ -3,8 +3,9 @@
     width: 300px;
     margin: 20px auto;
     height: 50px;
-    background-color: #bf07ac;
+    background-color: #52c934;
     border-radius: 5px;
+    border-radius: 10px;
 }
 .list p{
     padding: 10px;
